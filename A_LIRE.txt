@@ -1,0 +1,20 @@
+Taper la commande "make" dans le terminal pour compiler.
+Taper ensuite "./main" pour jouer au jeu.
+
+Un fichier "score.txt" doit être présent dans le répertoire. Si ce n'est pas le cas désannoter la ligne 32 dans le fichier "./src/sokoban.c" et compiler. Le fichier sera alors crée lors du lancement du jeu. Veuillez mettre la ligne en annotation encore une fois et recompiler si vous tenez à garder vos scores (sinon le document sera créer à chaque lancement de jeu).
+
+N'hésitez pas à regarder la page des règles dans le jeu.
+
+Amusez-vous bien !
+
+Touches :
+
+Z: aller en haut
+Q: aller à gauche
+S: aller en bas
+D: aller à droite
+
+I: sauvegarder la partie
+M: revenir au menu au cours d'une partie
+P: passer au niveau suivant
+O: revenir au niveau précèdant
